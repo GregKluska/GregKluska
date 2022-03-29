@@ -2,6 +2,8 @@
 
 Software Developer focused on building apps and solving problems. A solid foundation and plan ahead  before you start working is crucial for successful project.
 
+<!-- 
+
 <h2>💻 I'm Currently Learning</h2>
 
 
@@ -11,13 +13,17 @@ __Android Documentation__
 - [Documentation | Android Developers](https://developer.android.com/docs)
 - [Android Open Source Project](https://source.android.com/)
 
-<h2>Currently working:</h2>
+-->
+
+<!-- <h2>Currently working:</h2>
 <h4>Handsfree Group</h4>
 Building mission-critical communication systems for police and other emergency services, based on an Android platform.
 
 <h4>Minesweeper - Jetpack Compose</h4>
 
 Remake of classic game with Kotlin and Jetpack Compose for UI
+
+-->
 
 <!-- __Check out my GitHub repository:__
 
